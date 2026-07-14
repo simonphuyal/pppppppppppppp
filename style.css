@@ -1,5 +1,27 @@
-h1{
-    color:black;
-    background-color: brown;height: 100px;
-    text-align:center;
+body{
+    background-color: black;height: 100px;
+    text-decoration:white ;
 }
+p{
+    color :white;
+}
+form{
+    color :aliceblue;
+}
+table{
+    color :antiquewhite;
+}
+h1{
+     color :antiquewhite;
+     text-align: center;
+}
+h2{
+     color :antiquewhite;
+}
+h3{
+     color :antiquewhite;
+}
+ol{
+     color :antiquewhite;
+}
+
